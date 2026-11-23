@@ -1,0 +1,5 @@
+﻿Modelo,F1 macro,Generalización |brecha|,Errores,Estabilidad (desv. CV),Tiempo entrenamiento,Suma de posiciones
+KNN,4,2,4,4,1,15
+Naive Bayes,3,4,3,1,2,13
+SVM,1,1,1,2,3,8
+Random Forest,2,3,2,3,4,14

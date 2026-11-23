@@ -1,0 +1,26 @@
+﻿termino,importancia,clase_con_mayor_tfidf
+arrive,0.03413,Envío
+broken,0.0238,Envío
+come,0.01985,Envío
+break,0.01599,Envío
+not,0.01447,Producto
+packaging,0.01281,Envío
+arrive broken,0.01043,Envío
+receive,0.00988,Envío
+damage,0.00955,Envío
+not work,0.00889,Producto
+smell,0.00844,Producto
+great,0.00816,Sentimiento
+love,0.00781,Sentimiento
+come broken,0.00724,Envío
+item,0.00715,Envío
+package,0.00708,Envío
+flimsy,0.00708,Producto
+miss,0.00656,Envío
+bent,0.0065,Envío
+dent,0.00622,Envío
+work,0.00603,Producto
+box,0.00576,Envío
+return,0.00573,Envío
+crack,0.00492,Envío
+perfect,0.00472,Sentimiento

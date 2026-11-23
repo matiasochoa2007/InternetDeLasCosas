@@ -1,0 +1,4 @@
+﻿,pred_Envío,pred_Producto,pred_Sentimiento
+real_Envío,30,31,7
+real_Producto,8,891,255
+real_Sentimiento,7,214,1523

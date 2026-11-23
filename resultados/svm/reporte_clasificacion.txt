@@ -1,0 +1,15 @@
+Modelo: SVM
+Exactitud (accuracy) en prueba: 0.8240
+F1 macro en prueba: 0.7241
+F1 macro en validación cruzada (5 pliegues): 0.7115 ± 0.0126
+Tiempo de entrenamiento: 2.304 s | Tiempo de predicción (2966 reseñas): 0.199 s
+
+              precision    recall  f1-score   support
+
+       Envío     0.6667    0.4412    0.5310        68
+    Producto     0.7843    0.7721    0.7782      1154
+ Sentimiento     0.8532    0.8733    0.8631      1744
+
+    accuracy                         0.8240      2966
+   macro avg     0.7681    0.6955    0.7241      2966
+weighted avg     0.8221    0.8240    0.8225      2966

@@ -1,0 +1,6 @@
+﻿reseña,etiqueta,confianza,Envío,Producto,Sentimiento
+The package arrived two weeks late and the box was completely crushed.,Envío,0.8179,0.8179,0.0744,0.1077
+The handle snapped off after three uses and the pan started to rust.,Producto,0.7066,0.1018,0.7066,0.1916
+"Absolutely love this blanket, so cozy and the color is beautiful!",Sentimiento,0.8288,0.0648,0.1064,0.8288
+"It's okay. Does the job, nothing special for the price.",Sentimiento,0.8075,0.0701,0.1224,0.8075
+UPS left it at the wrong address and it arrived with a broken lid.,Envío,0.8986,0.8986,0.0248,0.0766

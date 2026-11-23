@@ -1,0 +1,7 @@
+﻿etiqueta_real,etiqueta_predicha,KNN,Naive Bayes,SVM,Random Forest,Total
+Sentimiento,Producto,228,529,214,318,1289
+Producto,Sentimiento,579,204,255,250,1288
+Envío,Producto,30,37,31,30,128
+Sentimiento,Envío,2,34,7,16,59
+Producto,Envío,9,19,8,22,58
+Envío,Sentimiento,23,7,7,5,42

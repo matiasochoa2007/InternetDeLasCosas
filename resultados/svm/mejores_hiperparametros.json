@@ -1,0 +1,4 @@
+{
+  "clf": "LinearSVC(class_weight='balanced', max_iter=20000, random_state=42)",
+  "clf__C": "0.3"
+}

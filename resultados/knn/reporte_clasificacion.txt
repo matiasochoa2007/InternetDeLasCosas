@@ -1,0 +1,15 @@
+Modelo: KNN
+Exactitud (accuracy) en prueba: 0.7063
+F1 macro en prueba: 0.5586
+F1 macro en validación cruzada (5 pliegues): 0.5720 ± 0.0270
+Tiempo de entrenamiento: 1.174 s | Tiempo de predicción (2966 reseñas): 0.710 s
+
+              precision    recall  f1-score   support
+
+       Envío     0.5769    0.2206    0.3191        68
+    Producto     0.6869    0.4905    0.5723      1154
+ Sentimiento     0.7155    0.8681    0.7845      1744
+
+    accuracy                         0.7063      2966
+   macro avg     0.6598    0.5264    0.5586      2966
+weighted avg     0.7012    0.7063    0.6912      2966

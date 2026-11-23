@@ -1,0 +1,7 @@
+﻿etiqueta_real,etiqueta_predicha,n_errores
+Producto,Sentimiento,579
+Sentimiento,Producto,228
+Envío,Producto,30
+Envío,Sentimiento,23
+Producto,Envío,9
+Sentimiento,Envío,2

@@ -1,0 +1,15 @@
+Modelo: Random Forest
+Exactitud (accuracy) en prueba: 0.7839
+F1 macro en prueba: 0.6807
+F1 macro en validación cruzada (5 pliegues): 0.6973 ± 0.0234
+Tiempo de entrenamiento: 15.786 s | Tiempo de predicción (2966 reseñas): 0.797 s
+
+              precision    recall  f1-score   support
+
+       Envío     0.4648    0.4853    0.4748        68
+    Producto     0.7171    0.7643    0.7399      1154
+ Sentimiento     0.8468    0.8085    0.8272      1744
+
+    accuracy                         0.7839      2966
+   macro avg     0.6762    0.6860    0.6807      2966
+weighted avg     0.7876    0.7839    0.7852      2966

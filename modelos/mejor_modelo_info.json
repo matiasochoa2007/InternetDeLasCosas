@@ -1,0 +1,24 @@
+{
+  "modelo": "SVM",
+  "archivo_origen": "modelos/svm.joblib",
+  "regla_de_seleccion": "mayor F1 macro en prueba; empate práctico (< 0.005) -> menor tiempo de entrenamiento",
+  "Accuracy": 0.8240053944706676,
+  "Precision (macro)": 0.7680729803658553,
+  "Recall (macro)": 0.6955177802760556,
+  "F1 (macro)": 0.7240911408319438,
+  "F1 (ponderado)": 0.8224596899790357,
+  "F1 Envío": 0.5309734513274337,
+  "F1 Producto": 0.7781659388646288,
+  "F1 Sentimiento": 0.8631340323037687,
+  "F1 macro CV (media)": 0.7115078575839636,
+  "F1 macro CV (desv. est.)": 0.012589219136768153,
+  "Brecha CV - prueba": -0.012583283247980193,
+  "Errores en prueba": 522.0,
+  "Tiempo búsqueda (s)": 192.91442050004844,
+  "Tiempo entrenamiento (s)": 2.3041537000099197,
+  "Tiempo predicción (s)": 0.19918320002034307,
+  "mejores_hiperparametros": {
+    "clf": "LinearSVC(class_weight='balanced', max_iter=20000, random_state=42)",
+    "clf__C": "0.3"
+  }
+}

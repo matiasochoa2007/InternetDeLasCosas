@@ -1,0 +1,4 @@
+{
+  "clf__n_neighbors": "5",
+  "clf__weights": "uniform"
+}

@@ -1,0 +1,5 @@
+﻿paso,reseñas_restantes,eliminadas_en_el_paso
+Corpus inicial,15000,0
+Sin registros vacíos,15000,0
+Sin duplicados,14949,51
+Sin reseñas de <= 3 palabras,14826,123
